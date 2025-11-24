@@ -3,5 +3,10 @@ name = "byteframe"
 version = "0.1.0"
 edition = "2021"
 license = "AGPL-3.0"
+description = "A lightweight binary framing protocol library with zero dependencies"
+repository = "https://github.com/mutroa/byteframe"
+keywords = ["protocol", "framing", "binary", "packet", "network"]
+categories = ["network-programming", "encoding", "parsing"]
+readme = "README.md"
 
 [dependencies]
